@@ -5,7 +5,7 @@ layout: page
 
 a
 
-> Minimalist | Appleist | Unixer | Coder
+> Programmer
 
 who involved in 
 

@@ -59,7 +59,7 @@ class Box(QDialog):
 
 一个VBox加一个HBox布局，下面是运行效果
 
-![原生的](http://hhuaiblog.qiniudn.com/qt1.jpg)
+![原生的]({{ '/media/imgs/qt1.jpg' | asset_url }})
 
 #### 2. 来个自定义标题栏
 
@@ -126,4 +126,4 @@ class Box(QDialog):
     ```
 
 #### 6. 这是美化最终效果
-![美化之后](http://hhuaiblog.qiniudn.com/qt2.png)
+![美化之后]( {{ '/media/imgs/qt2.png' | asset_url}})

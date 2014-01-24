@@ -15,7 +15,7 @@ https://github.com/hhuai/qt-learning/tree/master/2
 打开之后与vb,delphi很像，拖拖拉拉就把界面设计出来了。
 这里面要注意的是, 如果需要二次操作的组件，将其objectName设好
 
-![](http://hhuaiblog.qiniudn.com/qt3.png)
+![]({{'/media/imgs/qt3.png' | asset_url'}})
 
 保存为ui文件，如 dialog.ui
 
@@ -55,4 +55,4 @@ if __name__ == '__main__':
 
 #### 4. 贴一个运行的图
 
-![](http://hhuaiblog.qiniudn.com/qt4.png)
+![]({{'/media/imgs/qt4.png' | asset_url'}})
