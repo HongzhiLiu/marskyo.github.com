@@ -8,6 +8,8 @@ author: "hhuai"
 atom-baseurl: "http://hhuai.huahua8.cn"
 disqus: "hhuai"
 
+cdn: 'http://hhuaiblog.qiniudn.com/'
+
 navigations:
   - title: Archive
     class: fa fa-list-ul
