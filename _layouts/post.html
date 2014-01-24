@@ -22,25 +22,27 @@ layout: default
   {{ content }}
   </section>
   <script type="text/javascript">
-      var disqus_shortname = '{{ site.disqus }}';
-      <!-- var disqus_identifier = '{{ page.guid }}'; -->
-
-      function leave_comment() {
-          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-          dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-          $("#leave_comment_link").css("display", "none");
-          $("#collapse_comment_link").css("display", "");
-      };
-      function collapse_comment() {
-          // document.getElementById("disqus_thread").innerHTML = '';
-          $("#disqus_thread").slideUp(400, function() {
-              $("#disqus_thread").empty();
-              $("#leave_comment_link").css("display", "");
-              $("#collapse_comment_link").css("display", "none");
-              $("#disqus_thread").css("display", "");
+    var duoshuoQuery = {short_name:"blog-huahua8"};
+    var leave_comment = (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.src = 'http://static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0] 
+      || document.getElementsByTagName('body')[0]).appendChild(ds);
+      $("#leave_comment_link").css("display", "none");
+      $("#collapse_comment_link").css("display", "");
+    });
+    
+    var collapse_comment = (function() {
+      // document.getElementById("disqus_thread").innerHTML = '';
+      $(".ds-thread").slideUp(400, function() {
+          $(".ds-thread").empty();
+          $("#leave_comment_link").css("display", "");
+          $("#collapse_comment_link").css("display", "none");
+          $(".ds-thread").css("display", "");
           });
-      };
+    });
   </script>
   <div class="divider">
     <span>
@@ -61,10 +63,6 @@ layout: default
     </span>
   </div>
   <section class="comment">
-  <div id="disqus_thread"></div>
-  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <div class="ds-thread" data-thread-key={{page.guid}} data-title={{page.title}} ></div>
   </section>
 </article>
-<script type="text/javascript" charset="utf-8">
-  leave_comment(); 
-</script>

@@ -1,5 +1,54 @@
 task :default => :generate
 
+
+module Helper
+  def self.make_uuid
+    "uuid: " + (0..16).to_a.map{|a| rand(16).to_s(16)}.join + "\n"
+  end
+
+  def self.replace_uuid(content)
+    # --- --- 之间搜
+    io = ::StringIO.new(content) 
+    find = 0
+    max = 0
+    while line = io.gets
+      break if line =~ /^guid:/
+      break if max > 10
+      if line =~ /^---/
+        find += 1
+      end
+      if find == 2
+        break
+      end
+      max += 1
+    end
+
+    s = StringIO.new 
+    if find == 2
+      io.rewind
+
+      while line = io.gets
+        s.write(self.make_uuid) if max == 0
+        s.write(line)
+        max -= 1
+      end
+    end 
+    s.string
+  end
+end
+
+desc "add a guid"
+task :guid do
+  Dir["_posts/*.md"].each do |x|
+    content = Helper.replace_uuid File.open(x).read 
+    if content && content.length >10
+      File.open(x, 'w') do |f|
+        f.write(content)
+      end
+    end
+  end
+end
+
 desc 'Create new post with rake "post[post-name]"'
 task :post, [:title] do |t, args|
   if args.title then
