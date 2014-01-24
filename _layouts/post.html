@@ -21,10 +21,9 @@ layout: default
   <section class="post">
   {{ content }}
   </section>
-  {% if page.guid %}
   <script type="text/javascript">
       var disqus_shortname = '{{ site.disqus }}';
-      var disqus_identifier = '{{ page.guid }}';
+      <!-- var disqus_identifier = '{{ page.guid }}'; -->
 
       function leave_comment() {
           var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
@@ -65,5 +64,7 @@ layout: default
   <div id="disqus_thread"></div>
   <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
   </section>
-  {% endif %}
 </article>
+<script type="text/javascript" charset="utf-8">
+  leave_comment(); 
+</script>

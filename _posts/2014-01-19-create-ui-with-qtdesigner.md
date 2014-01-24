@@ -1,7 +1,7 @@
 ---
 title: 使用qtdesgin协助设计界面
 layout: post
-guid: adljfajsflasdfjljsdfj
+guid: 564894661
 tags: 
       - pyqt
 ---

@@ -1,8 +1,6 @@
-
 ---
 layout: post
 title: "ios实现amr编解码"
-date: 2012-02-05 13:52
 comments: true
 tags: 
     - ios
