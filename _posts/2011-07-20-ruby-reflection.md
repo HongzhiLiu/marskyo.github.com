@@ -2,6 +2,7 @@
 layout: post
 title: Ruby反射和元编程
 comments: true
+uuid: 7caba0456ddffcea0
 ---
 
 <p class="meta">2010-07-20 - hhuai</p>

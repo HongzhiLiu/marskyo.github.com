@@ -3,7 +3,7 @@ task :default => :generate
 
 module Helper
   def self.make_uuid
-    "uuid: " + (0..16).to_a.map{|a| rand(16).to_s(16)}.join + "\n"
+    "uuid: " + (0..16).to_a.map{|a| rand(16).to_s(16)}.join + "\r\n"
   end
 
   def self.replace_uuid(content)
@@ -12,7 +12,7 @@ module Helper
     find = 0
     max = 0
     while line = io.gets
-      break if line =~ /^guid:/
+      break if line =~ /^uuid:/
       break if max > 10
       if line =~ /^---/
         find += 1
@@ -39,7 +39,7 @@ end
 
 desc "add a guid"
 task :guid do
-  Dir["_posts/*.md"].each do |x|
+  Dir["_posts/*.markdown"].each do |x|
     content = Helper.replace_uuid File.open(x).read 
     if content && content.length >10
       File.open(x, 'w') do |f|

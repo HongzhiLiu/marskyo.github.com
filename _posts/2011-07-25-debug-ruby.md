@@ -2,6 +2,7 @@
 layout: post
 title: Ruby源码调试方法
 comments: true
+uuid: 75e613c4e0bf828ef
 ---
 
 <p class="meta">update: 2011-07-25 - hhuai</p>

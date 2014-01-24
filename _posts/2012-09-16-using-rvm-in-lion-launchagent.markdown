@@ -6,6 +6,7 @@ comments: true
 tags: 
     - rvm
     - macox
+uuid: 01d28296e14e5afa6
 ---
 
 Launchagents是Mac ox中一个自启动服务，用ruby脚本来写服务的话，需要注意一下环境变量，当然搞ruby的，大家都用rvm,所以就变成处理rvm 的问题了。

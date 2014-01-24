@@ -5,6 +5,7 @@ date: 2012-03-31 10:50
 comments: true
 tags: 
     - ruby
+uuid: 85141c1939e151db2
 ---
 两个重要的区别
 

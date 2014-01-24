@@ -2,6 +2,7 @@
 title: '使用 NodeJS, MarkdownJS, PrettifyJS 打造个人博客写作平台'
 layout: post
 comments: true
+uuid: 612a2323f06b716ae
 ---
 
 ## 引言

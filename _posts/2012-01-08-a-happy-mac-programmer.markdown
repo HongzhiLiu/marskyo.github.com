@@ -7,6 +7,7 @@ tags:
     - ruby
     - mac
     - ios
+uuid: bb507e250accf69aa
 ---
 
 ## 引子

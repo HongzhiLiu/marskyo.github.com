@@ -2,6 +2,7 @@
 layout: post
 title: console技巧收集（持继更新）
 comments: true
+uuid: e226d4c32497ba275
 ---
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: 配置Xmanager连接
 comments: true
+uuid: 2fedf14b0a9c4458d
 ---
 
 <p class="meta">update: 2011-07-19 - hhuai</p>

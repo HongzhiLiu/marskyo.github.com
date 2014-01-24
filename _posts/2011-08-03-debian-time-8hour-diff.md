@@ -2,6 +2,7 @@
 layout: post
 title: Debian相差8小时问题
 comments: true
+uuid: e95c57e7d5641dd0e
 ---
 
 <p class="meta">update: 2010-07-20 - hhuai</p>

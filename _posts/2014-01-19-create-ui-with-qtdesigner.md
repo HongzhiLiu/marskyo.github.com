@@ -1,9 +1,9 @@
 ---
 title: 使用qtdesgin协助设计界面
 layout: post
-guid: 564894661
 tags: 
       - pyqt
+uuid: 123123123
 ---
 
 所有代码放在

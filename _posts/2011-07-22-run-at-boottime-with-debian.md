@@ -2,6 +2,7 @@
 layout: post
 title: Debian添加开机运行服务
 comments: true
+uuid: 1398df3b32b129b42
 ---
 
 <p class="meta">update: 2010-07-22 - hhuai</p>

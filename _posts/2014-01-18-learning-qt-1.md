@@ -4,6 +4,7 @@ layout: post
 tags: 
     - qt 
     - pyqt
+uuid: 8c6aeaf8a29ff77a0
 ---
 
 

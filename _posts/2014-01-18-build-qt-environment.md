@@ -4,6 +4,7 @@ layout: post
 tags: 
     - qt 
     - python
+uuid: 69a48a5fc2e819c82
 ---
 
 一、 编译Qt 5.2.0

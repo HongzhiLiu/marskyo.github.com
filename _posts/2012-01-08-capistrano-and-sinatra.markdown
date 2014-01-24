@@ -3,6 +3,7 @@ layout: post
 title: "capistrano and sinatra"
 date: 2012-01-08 22:29
 comments: true
+uuid: 76090d3719a4e5a95
 ---
 
 ### capistrano 自动部署

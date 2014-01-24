@@ -3,6 +3,7 @@ layout: post
 title: Ruby源码分析
 comments: true
 date: 2012-01-08 16:05
+uuid: 145e38e5ec30a4933
 ---
 
 <p class="meta">2012-01-08 - hhuai</p>
