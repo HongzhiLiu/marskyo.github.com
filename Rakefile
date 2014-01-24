@@ -60,7 +60,7 @@ end
 
 desc 'Build site with Jekyll'
 task :generate => [:clean, :scss] do
-  `jekyll`
+  `jekyll build`
 end
 
 desc 'Generate css'
@@ -71,6 +71,18 @@ end
 desc 'Start server'
 task :server => [:clean, :scss] do
   `jekyll serve -t`
+end
+
+
+desc 'Deploy with rake "depoly[comment]"'
+task :push, [:comment] => :generate do |t, args|
+  Dir.chdir(File.expand_path('../_site',__FILE__)) do
+    %x[git init]
+    %x[git add -A]
+    %x[git remote add origin git@github.com:hhuai/hhuai.github.com.git ]
+    %x[git commit -am '#{args.comment ? args.comment : 'new push'}']
+    %x[git push origin master -f]
+  end
 end
 
 desc 'Deploy with rake "depoly[comment]"'
