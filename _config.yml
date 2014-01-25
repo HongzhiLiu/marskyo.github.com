@@ -5,10 +5,11 @@ name: "杂草丛"
 markdown: rdiscount
 
 author: "hhuai"
-atom-baseurl: "http://hhuai.huahua8.cn"
+atom-baseurl: "http://blog.huahua8.cn"
 disqus: "hhuai"
 
-cdn: 'http://hhuaiblog.qiniudn.com'
+safe: false
+cdn_url: 'http://hhuaiblog.qiniudn.com'
 
 navigations:
   - title: Archive
