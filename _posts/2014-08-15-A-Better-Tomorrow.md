@@ -1,7 +1,6 @@
 --- 
 title: 英雄本色三部曲
 layout: post
-comments: true
 tags: 
     - movie
 ---

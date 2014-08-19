@@ -1,7 +1,6 @@
 ---
 title: 开篇手记
 layout: post
-comments: true
 tags: 
     - 随笔
 ---
