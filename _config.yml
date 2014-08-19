@@ -4,7 +4,7 @@ permalink: /:year/:month/:day/:title.html
 name: "诗酒趁年华"
 markdown: rdiscount
 
-author: "theodoer"
+author: "诗酒趁年华"
 atom-baseurl: "http://theodoer.github.io"
 disqus: "theodoer"
 
