@@ -1,15 +1,15 @@
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title.html
-name: "杂草丛"
+name: "诗酒趁年华"
 markdown: rdiscount
 
-author: "hhuai"
-atom-baseurl: "http://blog.huahua8.cn"
-disqus: "hhuai"
+author: "theodoer"
+atom-baseurl: "http://theodoer.github.io"
+disqus: "theodoer"
 
 safe: false
-cdn_url: 'http://hhuaiblog.qiniudn.com'
+cdn_url: 'http://theodoer.github.io'
 
 navigations:
   - title: Archive
@@ -21,9 +21,6 @@ navigations:
   - title: About
     class: fa fa-user
     href: /about.html
-  - title: Blogroll
-    class: fa fa-link
-    href: /links.html
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
