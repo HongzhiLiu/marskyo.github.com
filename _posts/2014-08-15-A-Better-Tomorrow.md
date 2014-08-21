@@ -1,5 +1,5 @@
 --- 
-title: 英雄本色三部曲
+title: 英雄本色
 layout: post
 tags: 
     - movie

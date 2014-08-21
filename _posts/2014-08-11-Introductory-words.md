@@ -1,5 +1,5 @@
 ---
-title: 开篇手记
+title: 新的开始
 layout: post
 tags: 
     - 随笔
