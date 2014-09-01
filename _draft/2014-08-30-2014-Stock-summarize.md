@@ -2,8 +2,8 @@
 title: 2014年股市总结
 layout: post
 tags: 
-    - 投资
-    - 股票
+    - Investment
+    - stock
 ---
 时间：2013年10月-2014年9月
 
