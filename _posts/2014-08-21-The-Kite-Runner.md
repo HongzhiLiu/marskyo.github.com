@@ -3,7 +3,7 @@ title: 追风筝的人
 layout: post
 tags: 
     - movie
-    - book-novel
+    - book-小说
 ---
 
 ![](/pic/2014/8-21/2/1.png)
