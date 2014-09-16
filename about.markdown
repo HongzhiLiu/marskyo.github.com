@@ -12,7 +12,7 @@ layout: page
 即便如此，依旧热爱生活，对生活充满期待！
 
 >######联系我
->[twitter](https://twitter.com/TheodoerLiu)    [weibo](http://weibo.com/sjcnh)
-
+>[weibo](http://weibo.com/sjcnh)
+><a href="http://instagram.com/theodoer?ref=badge" class="ig-b- ig-b-48"><img src="//badges.instagram.com/static/images/ig-badge-48.png" alt="Instagram" /></a>
 
 >> blog模板取自[github](https://github.com/hhuai)，在此感谢！
