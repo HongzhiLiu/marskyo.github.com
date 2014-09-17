@@ -1,6 +1,7 @@
 --- 
 title: 2014年股市总结
 layout: post
+date: 2014-09-16 13:22
 tags: 
     - Investment
     - stock
