@@ -10,18 +10,19 @@ layout: default
   {% endif %}
   <section class="post">
   {{ content }}
-  </section>
+  </section> # 以下内容为为”联系我“添加
+  <div float:left>
   <section>
-   	 <style>
+   	 <wb:follow-button uid="1780013221" type="red_1" width="107" height="38" ></wb:follow-button>
+	 <style>
+         .ig-b- { display: inline-block; }	 
          .ig-b- img { visibility: hidden; }
          .ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
          .ig-b-32 { width: 32px; height: 32px; background: url(//badges.instagram.com/static/images/ig-badge-sprite-32.png) no-repeat 0 0; }
          @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
          .ig-b-32 { background-image: url(//badges.instagram.com/static/images/ig-badge-sprite-32@2x.png); background-size: 60px 178px; } }
      </style>    
-	<div { display: inline-block; }> 
-	<a href="http://instagram.com/theodoer?ref=badge" class="ig-b- ig-b-32"><img src="//badges.instagram.com/static/images/ig-badge-32.png" alt="Instagram" /></a>
-    <wb:follow-button uid="1780013221" type="red_1" width="107" height="38" ></wb:follow-button>
-	</div> 
+	 <a href="http://instagram.com/theodoer?ref=badge" class="ig-b- ig-b-32"><img src="//badges.instagram.com/static/images/ig-badge-32.png" alt="Instagram" /></a>
+   </div> # 到此结束
   </section>
 </article>
