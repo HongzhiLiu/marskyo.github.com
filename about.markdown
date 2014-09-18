@@ -13,8 +13,8 @@ layout: page
 
 >######联系我
 
+<left>
 >[![](/pic/weibo.jpg)](http://weibo.com/sjcnh)
->
 
 ><style>.ig-b- { display: inline-block; }
 .ig-b- img { visibility: hidden; }
