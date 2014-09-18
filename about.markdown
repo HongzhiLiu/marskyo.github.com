@@ -12,8 +12,9 @@ layout: page
 即便如此，依旧热爱生活，对生活充满期待！
 
 >######联系我
-
-<a> <wb:follow-button uid="1780013221" type="gray_1" width="67" height="24" ></wb:follow-button></a>
+<section class="post">
+<wb:follow-button uid="1780013221" type="gray_1" width="67" height="24" ></wb:follow-button>
+</section>
 ><style>.ig-b- { display: inline-block; }
 .ig-b- img { visibility: hidden; }
 .ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
