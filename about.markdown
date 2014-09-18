@@ -13,10 +13,7 @@ layout: page
 
 >######联系我
 
-><wb:follow-button uid="1780013221" type="gray_1" width="67" height="24" ></wb:follow-button>
-><section>
-  <wb:follow-button uid="1780013221" type="gray_1" width="67" height="24" ></wb:follow-button>
-  </section>
+<a <wb:follow-button uid="1780013221" type="gray_1" width="67" height="24" ></wb:follow-button></a>
 ><style>.ig-b- { display: inline-block; }
 .ig-b- img { visibility: hidden; }
 .ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
