@@ -13,6 +13,6 @@ layout: about
 
 [![](/pic/weibo.jpg =38x)](http://weibo.com/sjcnh)
 
->> blog模板取自[github](https://github.com/hhuai)，在此感谢！
+blog模板取自[github](https://github.com/hhuai)，在此感谢！
 
->######联系我
+#####联系我
