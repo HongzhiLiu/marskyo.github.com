@@ -11,8 +11,6 @@ layout: about
 
 即便如此，依旧热爱生活，对生活充满期待！
 
-[![](/pic/weibo.jpg =38x)](http://weibo.com/sjcnh)
-
 blog模板取自[github](https://github.com/hhuai)，在此感谢！
 
 #####联系我
