@@ -13,7 +13,7 @@ layout: page
 
 >######联系我
 
-><center>[![](/pic/weibo.jpg =60x)](http://weibo.com/sjcnh)  <style>.ig-b- { display: inline-block; }
+><center>[![](/pic/weibo.jpg =40x)](http://weibo.com/sjcnh)<style>.ig-b- { display: inline-block; }
 .ig-b- img { visibility: hidden; }
 .ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
 .ig-b-32 { width: 32px; height: 32px; background: url(//badges.instagram.com/static/images/ig-badge-sprite-32.png) no-repeat 0 0; }
