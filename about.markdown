@@ -13,12 +13,17 @@ layout: page
 
 >######联系我
 
+><wb:follow-button uid="1780013221" type="gray_1" width="67" height="24" ></wb:follow-button>
+><section>
+  <wb:follow-button uid="1780013221" type="gray_1" width="67" height="24" ></wb:follow-button>
+  </section>
 ><style>.ig-b- { display: inline-block; }
 .ig-b- img { visibility: hidden; }
 .ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
 .ig-b-32 { width: 32px; height: 32px; background: url(//badges.instagram.com/static/images/ig-badge-sprite-32.png) no-repeat 0 0; }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
 .ig-b-32 { background-image: url(//badges.instagram.com/static/images/ig-badge-sprite-32@2x.png); background-size: 60px 178px; } }</style>
-<a href="http://instagram.com/theodoer?ref=badge" class="ig-b- ig-b-32"><img src="//badges.instagram.com/static/images/ig-badge-32.png" alt="Instagram" /></a><body><div class="div-right">[![](/pic/weibo.jpg =38x)](http://weibo.com/sjcnh)</div></body> 
+<a href="http://instagram.com/theodoer?ref=badge" class="ig-b- ig-b-32"><img src="//badges.instagram.com/static/images/ig-badge-32.png" alt="Instagram" /></a>
+[![](/pic/weibo.jpg =38x)](http://weibo.com/sjcnh)
 
 >> blog模板取自[github](https://github.com/hhuai)，在此感谢！
