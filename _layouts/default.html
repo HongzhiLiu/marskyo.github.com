@@ -1,6 +1,6 @@
 {% include global.ext %}
 <!DOCTYPE html>
-<html xmlns:wb="http://open.weibo.com/wb"></html>
+<html xmlns:wb=“http://open.weibo.com/wb”>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
   <head>
     <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
@@ -36,7 +36,7 @@
         </header>
         <div id="content">
         {{ content }}
-		<wb:publish action="publish" type="web" language="zh_cn" button_type="red" button_size="small" button_text="分享到微博" default_text="我分享了@诗酒趁年华 的一篇博文" refer="y" default_image="" appkey="5Oow35" ></wb:publish>
+		<wb:share-button appkey="5Oow35" addition="simple" type="button" ralateUid="1780013221" default_text="我分享了 @诗酒趁年华 的一篇博文"></wb:share-button>
         </div>
         <footer>
           <div>
