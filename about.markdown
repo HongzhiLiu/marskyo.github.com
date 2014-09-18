@@ -1,6 +1,6 @@
 ---
 title: about me
-layout: page
+layout: about
 ---
 
 帝都偏远地区低调青年，五官还算端正，收入尚能温饱。
