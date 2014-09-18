@@ -5,10 +5,6 @@ tags:
     - Investment
     - stock
 ---
-<head>
-<meta property="wb:webmaster" content="7fd0f0234165ab81" />
-</head>
-
 时间：2013年10月-2014年9月
 
 收益率：算上分红，总收益18.9%
