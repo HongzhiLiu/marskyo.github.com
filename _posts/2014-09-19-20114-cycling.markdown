@@ -2,8 +2,7 @@
 title: 2014年骑行活动
 layout: post
 tags:
-  - sport
-  - cycling
+  - sport-cycling
 ---
 
 ![](http://ww3.sinaimg.cn/bmiddle/6a18d8a5jw9ekht6m3oc8j218g0xc1kx.jpg)
