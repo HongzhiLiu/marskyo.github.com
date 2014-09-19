@@ -13,8 +13,12 @@ layout: about
 
 blog模板取自[github](https://github.com/hhuai)，在此感谢！
 
-<section>
+<html xmlns:wb=“http://open.weibo.com/wb”>
+  <head>
+    <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+  </head>
+  <section>
   <wb:follow-button uid="1780013221" type="red_1" width="107" height="38" ></wb:follow-button>
-</section>
+  </section>
 
 #####联系我
