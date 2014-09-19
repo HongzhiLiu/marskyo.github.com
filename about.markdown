@@ -13,4 +13,8 @@ layout: about
 
 blog模板取自[github](https://github.com/hhuai)，在此感谢！
 
+<section>
+  <wb:follow-button uid="1780013221" type="red_1" width="107" height="38" ></wb:follow-button>
+</section>
+
 #####联系我
