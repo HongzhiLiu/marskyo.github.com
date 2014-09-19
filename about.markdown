@@ -18,7 +18,7 @@ blog模板取自[github](https://github.com/hhuai)，在此感谢！
     <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
   </head>
   <section>
-    <wb:follow-button uid="1780013221" type="red_1" width="107" height="38" ></wb:follow-button>
+    <http://open.weibo.com/wb:follow-button uid="1780013221" type="red_1" width="107" height="38" ></http://open.weibo.com/wb:follow-button>
   </section>
 
 #####联系我
