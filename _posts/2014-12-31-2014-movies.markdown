@@ -93,7 +93,7 @@ tags:
 90年代初想象力不错的电影。年轻的克尔斯滕·邓斯特。
 
 **The Fault in Our Stars（星运里的错）**  
-[残缺与爱情，也许只有残缺的人才能创造完美的爱情。](/posts/2014-09-19-the-fault-in-our-stars.markdown)
+[残缺与爱情，也许只有残缺的人才能创造完美的爱情。](/posts/2014-09-19-the-fault-in-our-stars.html)
 
 **Good Morning Vietnam（早安越南）**  
 幽默讽刺的反战影片，谁是敌人，谁又是朋友？罗宾·威廉姆斯和福里斯特·惠特克从87年年轻的时候就一直那样了，男人的长相啊。
@@ -102,7 +102,7 @@ tags:
 又是时间轮回的科幻片，动作、场面、爱情、美好的结尾……所有满足大众的三俗内容，阿汤哥还是蛮拼的。
 
 **The Two Faces of January(蜜月杀机)**  
-[小骗子遇到大骗子，骗子的两面人生。](/posts/2014-09-23-The-Two-Faces-of-January.markdown)
+[小骗子遇到大骗子，骗子的两面人生。](http://theodoer.github.io/2014/09/23/The-Two-Faces-of-January.html)
 
 **龙猫**  
 影片透露着温暖、质朴、纯真，用水引导压水机、吃黄瓜咬掉个头、玉米地掰棒子，满满的都是儿时的回忆。
