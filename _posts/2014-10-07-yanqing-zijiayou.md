@@ -19,19 +19,19 @@ tags:
 
 同学好久不聚，一日自驾游虽然累点，但是总比总是去个饭店就光吃顿饭强，大家都很开心，活动圆满结束。
 
-<center>*沿路风景*  </center>
+*<center>沿路风景</center>*  
 ![](/img/2014/10-7/1/1.JPG)
 
 ![](/img/2014/10-7/1/2.JPG)
 
 ![](/img/2014/10-7/1/3.JPG)
 
-<center>*两个小胖子*  </center>
+*<center>两个小胖子</center>*  
 ![](/img/2014/10-7/1/5.JPG)
 
-<center>*汤童鞋夫妇*  </center>
+*<center>汤童鞋夫妇</center>*  
 ![](/img/2014/10-7/1/6.JPG)
 
-<center>*刘童鞋夫妇*  </center>
+*<center>刘童鞋夫妇</center>*  
 ![](/img/2014/10-7/1/7.JPG)
 
