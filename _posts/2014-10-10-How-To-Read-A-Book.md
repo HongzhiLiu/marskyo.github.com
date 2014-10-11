@@ -1,5 +1,5 @@
 --- 
-title: 更懂生命 更有智慧——如何阅读一本书
+title: 如何阅读一本书
 layout: post
 comments: true
 tags: 
