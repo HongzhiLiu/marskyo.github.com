@@ -1,7 +1,7 @@
 ---
 title: 2014年部分电影一句话影评
 layout: post
-date: 2014-10-13 18:59
+date: 2014-10-15 21:20
 tags:
   - movie
 ---
