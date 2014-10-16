@@ -14,4 +14,3 @@ layout: about
 blog模板取自[github](https://github.com/hhuai)，在此感谢！
 
 #####联系我  
-![微信关注](/pic/weixin.png)
