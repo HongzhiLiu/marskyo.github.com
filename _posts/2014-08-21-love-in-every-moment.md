@@ -2,7 +2,7 @@
 title: 爱在每一刻
 layout: post
 tags: 
-    - movie
+    - Movie
 ---
 几年以前看了Before Sunset，已经不大记得，去年看了Before Midnight，又勾起了我对这个系列的好奇，最近重新看了高清版的Before Sunrise和Before Sunset，算是对整个故事完整了。
 
