@@ -2,7 +2,7 @@
 title: 我的爷爷
 layout: post
 tags: 
-    - essay
+    - Essay
 ---
 
 

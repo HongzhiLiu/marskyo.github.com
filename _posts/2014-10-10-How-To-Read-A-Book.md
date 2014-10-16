@@ -3,7 +3,7 @@ title: 如何阅读一本书
 layout: post
 comments: true
 tags: 
-    - book
+    - Read
 ---
 这是一本我迫切想读的书，看过之后获益良多，对以前读书的很多疑问有茅塞顿开之感。
 

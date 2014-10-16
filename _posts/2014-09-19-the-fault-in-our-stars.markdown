@@ -2,7 +2,7 @@
 title: 残缺与爱情——星运里的错
 layout: post
 tags:
-  - movie
+  - Movie
 ---
 ![](/pic/2014/9-19/1/1.jpg)
 
