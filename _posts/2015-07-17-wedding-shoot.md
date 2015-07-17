@@ -130,7 +130,7 @@ tags:
 
 最后奉上部分完整婚礼视频供成员参看流程，有疑问私信联系。
 
-链接: http://pan.baidu.com/s/1jGpKkdg 密码: 2imf
+链接: [http://pan.baidu.com/s/1eQi0KCi](http://pan.baidu.com/s/1eQi0KCi "百度网盘") 密码: b98n
 
 此处无声胜有声，摄像摄影的最高境界就是看似皆在原理、规则之中，而又没有原理、规则可言。
 
