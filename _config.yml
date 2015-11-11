@@ -5,11 +5,11 @@ name: "诗酒趁年华"
 markdown: rdiscount
 
 author: "诗酒趁年华"
-atom-baseurl: "http://HongzhiLiu.github.io"
+atom-baseurl: "http://marskyo.github.io"
 disqus: "theodoer"
 
 safe: false
-cdn_url: 'http://HongzhiLiu.github.io'
+cdn_url: 'http://marskyo.github.io'
 
 navigations:
   - title: Archive
