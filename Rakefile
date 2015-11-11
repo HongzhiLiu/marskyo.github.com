@@ -79,7 +79,7 @@ task :push, [:comment] => :generate do |t, args|
   Dir.chdir(File.expand_path('../_site',__FILE__)) do
     %x[git init]
     %x[git add -A]
-    %x[git remote add origin 'git@github.com:Theodoer/Theodoer.git']
+    %x[git remote add origin 'git@github.com:marskyo/hzliu.git']
     %x[git commit -am '#{args.comment ? args.comment : 'new push'}']
     %x[git push origin master:gitcafe-pages -f]
   end
