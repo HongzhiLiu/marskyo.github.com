@@ -1,6 +1,7 @@
 pygments: true
 permalink: /:year/:month/:day/:title.html
 name: "诗酒趁年华"
+highlighter:rouge
 
 author: "诗酒趁年华"
 atom-baseurl: "http://marskyo.github.io"
