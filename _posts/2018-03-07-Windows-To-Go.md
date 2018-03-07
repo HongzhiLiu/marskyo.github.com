@@ -1,14 +1,14 @@
 ---
-
 title: Windows To Go制作教程 —— 随身携带Windows系统
+author: 诗酒趁年华
 layout: post
-date: 2018-03-07 10:22
+date: 2018-03-07 12:22
 comments: true
-tags:  
-
-	- Essay
-
+tags:
+  - Essay
 ---
+
+
 
 ## Windows To Go制作教程 —— 随身携带Windows系统
 
@@ -26,7 +26,7 @@ tags:
 
 2. 准备安装的介质，U盘、移动硬盘、USB固态硬盘、mSATA、SD卡……容量至少大于16GB，推荐至少64GB，普通U盘的速度较慢，而且发热明显，建议有能力的选择USB固态硬盘或mSATA，另外微软有一份推荐的适合[Windows To Go的U盘列表](https://docs.microsoft.com/zh-cn/previous-versions/windows/it-pro/windows-8.1-and-8/hh831833(v=ws.11))，但是肯定价格不菲，其实不是推荐的U盘、硬盘一样可以安装。
 
-   ![](/img/208/3-7/.png)
+   ![](/img/2018/3-7/.png)
 
 3. 第一次安装后需要外接键盘，不能全键盘操作的还需要外接鼠标。
 
@@ -34,11 +34,11 @@ tags:
 
    启动转换助理
 
-![](/img/208/3-7/b1.png)
+![](/img/2018/3-7/b1.png)
 
 选择菜单栏操作，点击下载Windows支持软件。
 
-![](/img/208/3-7/b2.png)
+![](/img/2018/3-7/b2.png)
 
 选择保存位置，然后会下载好一个文件夹，里面就是这台Mac的Windows驱动。
 
