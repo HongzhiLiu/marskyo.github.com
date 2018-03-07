@@ -1,8 +1,7 @@
 ---
 title: Windows To Go制作教程 —— 随身携带Windows系统
-author: 诗酒趁年华
 layout: post
-date: 2018-03-07 12:22
+date: 2018-03-07 10:22
 comments: true
 tags:
   - Essay
