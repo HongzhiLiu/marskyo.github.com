@@ -22,7 +22,9 @@ tags:
 
 2. 准备安装的介质，U盘、移动硬盘、USB固态硬盘、mSATA、SD卡……容量至少大于16GB，推荐至少64GB，普通U盘的速度较慢，而且发热明显，建议有能力的选择USB固态硬盘或mSATA，另外微软有一份推荐的适合[Windows To Go的U盘列表](https://docs.microsoft.com/zh-cn/previous-versions/windows/it-pro/windows-8.1-and-8/hh831833(v=ws.11))，但是肯定价格不菲，其实不是推荐的U盘、硬盘一样可以安装。
 
-   ![](/img/2018/3-7/.png)
+   <center>下面三种移动设备都可以安装</center>
+
+   ![](/img/2018/3-7/5.jpg)
 
 3. 第一次安装后需要外接键盘，不能全键盘操作的还需要外接鼠标。
 
@@ -61,7 +63,7 @@ tags:
 
 ![](/img/2018/3-7/14.png)
 
-软件操作简单，安装步骤即可。
+软件操作简单，按照步骤安装即可。
 
 第三种方法是萝卜头IT论坛的WTG辅助工具，目前最新版本4.8，[软件下载地址](http://bbs.luobotou.org/thread-761-1-1.html)。
 
@@ -130,19 +132,25 @@ VHD选项下可以自行设置虚拟硬盘大小或默认。
 
 安装完成后可以将之前下载好的WindowsSupport文件夹拷贝到移动设备，然后将移动设备插入MacBook，这时也需结上外接键盘，开机同时按住Option键进入系统选择界面。
 
-![](/img/2018/3-7/.png)
+![](/img/2018/3-7/w2.JPG)
 
 如在其他Windows系统电脑上运行Windows To Go可下载万能驱动软件，进入BIOS更改启动设置，改选移动设备优先启动进入WTG系统。
 
 常规配置Windows，这时MacBook键盘无驱动无反应，外接键盘一路Enter，设置用户名、密码，再一路Enter，配置完成进入Windows系统。
 
-![](/img/2018/3-7/w1.png)
+![](/img/2018/3-7/w4.JPG)
+
+![](/img/2018/3-7/w3.JPG)
 
 打开系统，找到刚才拷贝的WindowsSupport文件夹，安装驱动。
 
 ![](/img/2018/3-7/b4.png)
 
+![](/img/2018/3-7/b5.JPG)
+
 安装重启完成之后就不需要外接键盘了，开始享受Windows To Go。
+
+![](/img/2018/3-7/b5.JPG)
 
 
 ## 其他说明注意事项
