@@ -24,10 +24,6 @@ layout: default
   <section>
   <center><wb:share-button appkey="5Oow35" addition="simple" type="icon" ralateUid="1780013221" default_text="我分享了@诗酒趁年华 的一篇博文"></wb:share-button></center>
   </section>
-  <!-- UY BEGIN -->
-  <div id="uyan_frame"></div>
-  <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=1975843"></script>
-  <!-- UY END -->
  <!-- JiaThis Button BEGIN -->
   <div id="ckepop" style="padding-left: 48.7%;">
     <span class="jiathis_txt"><a class="jiathis_button_weixin"></a></span>
@@ -45,6 +41,10 @@ layout: default
     <span><a href="javascript:leave_comment();" id="leave_comment_link"><i class="fa fa-comment-o"></i></a></span>
 	<span><a href="javascript:collapse_comment();" id="collapse_comment_link" style="display:none;"><i class="fa fa-chevron-up"></i></a></span>	
     <span>
+           <!-- UY BEGIN -->
+    <div id="uyan_frame"></div>
+    <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=1975843"></script>
+    <!-- UY END -->
     {% if page.next %}
     <a href="{{ page.next.url }}"><i class="fa fa-chevron-right"></i></a>
     {% else %}
