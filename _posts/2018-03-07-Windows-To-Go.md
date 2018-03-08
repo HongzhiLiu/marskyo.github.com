@@ -19,18 +19,16 @@ tags:
 ## 准备工作
 
 1. 一台装有Windows系统的电脑，我的是一台ThinkPad笔电，只有Mac的只能选择用启动转换器或虚拟机先在电脑上装双系统。
+2. 准备安装的介质，U盘、移动硬盘、固态U盘、mSATA、SD卡……容量至少大于16GB，推荐至少64GB，普通U盘的速度较慢，而且发热明显，建议有能力的选择固态U盘或mSATA，另外微软有一份推荐的适合[Windows To Go的U盘列表](https://docs.microsoft.com/zh-cn/previous-versions/windows/it-pro/windows-8.1-and-8/hh831833(v=ws.11))，但是肯定价格不菲，其实不是推荐的U盘、硬盘一样可以安装。
 
-2. 准备安装的介质，U盘、移动硬盘、USB固态硬盘、mSATA、SD卡……容量至少大于16GB，推荐至少64GB，普通U盘的速度较慢，而且发热明显，建议有能力的选择USB固态硬盘或mSATA，另外微软有一份推荐的适合[Windows To Go的U盘列表](https://docs.microsoft.com/zh-cn/previous-versions/windows/it-pro/windows-8.1-and-8/hh831833(v=ws.11))，但是肯定价格不菲，其实不是推荐的U盘、硬盘一样可以安装。
+<center>下面三种移动设备都可以安装</center>
 
-   <center>下面三种移动设备都可以安装</center>
-
-   ![](/img/2018/3-7/5.jpg)
+![](/img/2018/3-7/5.jpg)
 
 3. 第一次安装后需要外接键盘，不能全键盘操作的还需要外接鼠标。
-
 4. 如果是Mac系统，可以先在启动转换助理中下载好需要的Windows驱动，拷贝到单独U盘或后续拷贝到装好系统的移动设备。
 
-   <center>启动转换助理。</center>
+<center>启动转换助理。</center>
 
 ![](/img/2018/3-7/b1.png)
 
@@ -43,7 +41,6 @@ tags:
 ![](/img/2018/3-7/b3.png)
 
 5. Windows镜像文件[MSDN](https://msdn.itellyou.cn/)，微软建议的是Windows企业版，如果不用微软原生Windows To Go工具安装，版本无所谓，但是建议选择企业版或专业版，另外建议安装Windows 8.1及以上的系统。
-
 
 
 
