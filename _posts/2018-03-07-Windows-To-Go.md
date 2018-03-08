@@ -16,33 +16,35 @@ tags:
 我的MacBook一共只有500GB，实在不想浪费一点空间，而且Windows系统的日常使用率很低，所以第一种方案不是好的方案，第二种除了空间问题外，正版虚拟机还需要购买，也是不便之处，第三种方案是目前较佳选择，不占用任何系统空间，移动设备还可以随时带着走。
 
 
+
 ## 准备工作
 
 1. 一台装有Windows系统的电脑，我的是一台ThinkPad笔电，只有Mac的只能选择用启动转换器或虚拟机先在电脑上装双系统。
+
 2. 准备安装的介质，U盘、移动硬盘、固态U盘、mSATA、SD卡……容量至少大于16GB，推荐至少64GB，普通U盘的速度较慢，而且发热明显，建议有能力的选择固态U盘或mSATA，另外微软有一份推荐的适合[Windows To Go的U盘列表](https://docs.microsoft.com/zh-cn/previous-versions/windows/it-pro/windows-8.1-and-8/hh831833(v=ws.11))，但是肯定价格不菲，其实不是推荐的U盘、硬盘一样可以安装。
 
-<center>下面三种移动设备都可以安装</center>
+   <center>下面三种移动设备都可以安装</center>
 
-![](/img/2018/3-7/5.jpg)
+   ![](/img/2018/3-7/5.jpg)
 
 3. 第一次安装后需要外接键盘，不能全键盘操作的还需要外接鼠标。
+
 4. 如果是Mac系统，可以先在启动转换助理中下载好需要的Windows驱动，拷贝到单独U盘或后续拷贝到装好系统的移动设备。
 
-<center>启动转换助理。</center>
+   <center>启动转换助理。</center>
 
-![](/img/2018/3-7/b1.png)
+   ![](/img/2018/3-7/b1.png)
 
-<center>选择菜单栏操作，点击下载Windows支持软件。</center>
+   <center>选择菜单栏操作，点击下载Windows支持软件。</center>
 
-![](/img/2018/3-7/b2.png)
+   ![](/img/2018/3-7/b2.png)
 
-<center>选择保存位置，然后会下载好一个文件夹，里面就是这台Mac的Windows驱动。</center>
+   <center>选择保存位置，然后会下载好一个文件夹，里面就是这台Mac的Windows驱动。</center>
 
-![](/img/2018/3-7/b3.png)
+   ![](/img/2018/3-7/b3.png)
 
 5. Windows镜像文件[MSDN](https://msdn.itellyou.cn/)，微软建议的是Windows企业版，如果不用微软原生Windows To Go工具安装，版本无所谓，但是建议选择企业版或专业版，另外建议安装Windows 8.1及以上的系统。
-
-
+   ​
 
 ## 安装Windows To Go
 
@@ -125,6 +127,7 @@ VHD选项下可以自行设置虚拟硬盘大小或默认。
 设备不同以上选项略有不同，如果一次失败也没有关系，个别设置稍微更改后可再行进行制作。
 
 
+
 ## 配置Windows系统
 
 安装完成后可以将之前下载好的WindowsSupport文件夹拷贝到移动设备，然后将移动设备插入MacBook，这时也需结上外接键盘，开机同时按住Option键进入系统选择界面。
@@ -148,6 +151,7 @@ VHD选项下可以自行设置虚拟硬盘大小或默认。
 安装重启完成之后就不需要外接键盘了，开始享受Windows To Go。
 
 ![](/img/2018/3-7/w1.png)
+
 
 
 ## 其他说明注意事项
