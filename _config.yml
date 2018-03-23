@@ -2,10 +2,11 @@ markdown: kramdown
 kramdown:
     input: GFM
     syntax_highlighter: rouge
+    
 permalink: /:year/:month/:day/:title.html
 name: "诗酒趁年华"
 
-author: "诗酒趁年华"
+author: "hzliu"
 atom-baseurl: "http://marskyo.github.io"
 disqus: "theodoer"
 
