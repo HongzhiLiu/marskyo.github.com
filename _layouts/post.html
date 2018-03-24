@@ -61,21 +61,21 @@ layout: default
       var disqus_shortname = '{{ site.disqus }}';
       var disqus_identifier = '{{ page.guid }}';
 
-     function leave_comment() {
-       (function(d, s) {
-         var j, e = d.getElementsByTagName(s)[0];
+     (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
 
-         if (typeof LivereTower === 'function') { return; }
+       if (typeof LivereTower === 'function') { return; }
 
-         j = d.createElement(s);
-         j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-         j.async = true;
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
 
-         e.parentNode.insertBefore(j, e);
-       })(document, 'script');
+       e.parentNode.insertBefore(j, e);
+       
        $("#leave_comment_link").css("display", "none");
        $("#collapse_comment_link").css("display", "");
-       };
+     })(document, 'script');
+    
      function collapse_comment() {
             // document.getElementById("disqus_thread").innerHTML = '';
             $("#disqus_thread").slideUp(400, function() {
