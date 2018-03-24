@@ -34,7 +34,24 @@ layout: default
   </center>
   </section>
  <!-- wb Button END --> 
-  
+  <!-- 来必力City版安装代码 -->
+<div id="lv-container" data-id="city" data-uid="MTAyMC8zNTE1Ni8xMTY5MQ==">
+<script type="text/javascript">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
+
+       if (typeof LivereTower === 'function') { return; }
+
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
+
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+</script>
+<noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
+</div>
+<!-- City版安装代码已完成 -->
   <div class="divider">
     <span>
     {% if page.previous %}
@@ -59,24 +76,29 @@ layout: default
   <script type="text/javascript">
       var disqus_shortname = '{{ site.disqus }}';
       var disqus_identifier = '{{ page.guid }}';
-      function leave_comment() {
+     (function(d, s) {
+         var j, e = d.getElementsByTagName(s)[0];
+
+         if (typeof LivereTower === 'function') { return; }
+
+         j = d.createElement(s);
+         j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+         j.async = true;
+
+         e.parentNode.insertBefore(j, e);
+         $("#leave_comment_link").css("display", "none");
+         $("#collapse_comment_link").css("display", "");
+     })(document, 'script');
+     function leave_comment() {
           var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
           dsq.src = 'https://cdn-city.livere.com/js/embed.dist.js';
           (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
           $("#leave_comment_link").css("display", "none");
           $("#collapse_comment_link").css("display", "");
       };
-      function collapse_comment() {
-          // document.getElementById("disqus_thread").innerHTML = '';
-          $("#disqus_thread").slideUp(400, function() {
-              $("#disqus_thread").empty();
-              $("#leave_comment_link").css("display", "");
-              $("#collapse_comment_link").css("display", "none");
-              $("#disqus_thread").css("display", "");
-          });
-      };
   </script>
-  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-  </section>
+  <noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
+  </div>
+  <!-- City版安装代码已完成 -->
   <!-- END comment -->
 </article>
