@@ -24,17 +24,17 @@ layout: default
   <section>
 
  <!-- wb Button BEGIN -->
-  <center><wb:share-button appkey="5Oow35" addition="simple" type="icon" ralateUid="1780013221" default_text="我分享了@诗酒趁年华 的一篇博文"></wb:share-button></center>
-  </section>
- <!-- wb Button END --> 
-  
+  <center><wb:share-button appkey="5Oow35" addition="simple" type="icon" ralateUid="1780013221" default_text="我分享了@诗酒趁年华 的一篇博文"></wb:share-button>
   <!-- wx Button BEGIN -->
   <div id="ckepop" style="padding-left: 48.7%;">
     <span class="jiathis_txt"><a class="jiathis_button_weixin"></a></span>
     <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1" charset="utf-8"></script>
    </div> 
  <!-- wx Button END -->
-
+  </center>
+  </section>
+ <!-- wb Button END --> 
+  
   <div class="divider">
     <span>
     {% if page.previous %}
@@ -44,25 +44,7 @@ layout: default
     {% endif %}
     </span>
     <span><a href="javascript:leave_comment();" id="leave_comment_link"><i class="fa fa-comment-o"></i></a></span>
-	  <span><a href="javascript:collapse_comment();" id="collapse_comment_link" style="display:none;">  <!-- 来必力City版安装代码 -->
-    <div id="lv-container" data-id="city" data-uid="MTAyMC8zNTE1Ni8xMTY5MQ==">
-    <script type="text/javascript">
-       (function(d, s) {
-           var j, e = d.getElementsByTagName(s)[0];
-
-           if (typeof LivereTower === 'function') { return; }
-
-           j = d.createElement(s);
-           j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-           j.async = true;
-
-           e.parentNode.insertBefore(j, e);
-       })(document, 'script');
-    </script>
-    <noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
-    </div>
-<!-- City版安装代码已完成 -->
-    <i class="fa fa-chevron-up"></i></a></span>	
+	  <span><a href="javascript:collapse_comment();" id="collapse_comment_link" style="display:none;"><i class="fa fa-chevron-up"></i></a></span>	
     <span>
     {% if page.next %}
     <a href="{{ page.next.url }}"><i class="fa fa-chevron-right"></i></a>
