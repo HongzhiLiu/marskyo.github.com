@@ -60,8 +60,9 @@ layout: default
   <script type="text/javascript">
       var disqus_shortname = '{{ site.disqus }}';
       var disqus_identifier = '{{ page.guid }}';
-      
-     (function(d, s) {
+
+     function leave_comment() {
+       (function(d, s) {
          var j, e = d.getElementsByTagName(s)[0];
 
          if (typeof LivereTower === 'function') { return; }
@@ -71,7 +72,10 @@ layout: default
          j.async = true;
 
          e.parentNode.insertBefore(j, e);
-     })(document, 'script');
+       })(document, 'script');
+       $("#leave_comment_link").css("display", "none");
+       $("#collapse_comment_link").css("display", "");
+       };
      function collapse_comment() {
             // document.getElementById("disqus_thread").innerHTML = '';
             $("#disqus_thread").slideUp(400, function() {
