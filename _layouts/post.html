@@ -56,34 +56,32 @@ layout: default
   </div>
   <!-- BEGIN comment -->
   <section class="comment">
-  <div id="lv-container" data-id="city" data-uid="MTAyMC8zNTE1Ni8xMTY5MQ=="></div>
+  <!-- 来必力City版安装代码 -->
+  <div id="lv-container" data-id="city" data-uid="MTAyMC8zNTE1Ni8xMTY5MQ==">
   <script type="text/javascript">
-      var disqus_shortname = '{{ site.disqus }}';
-      var disqus_identifier = '{{ page.guid }}';
+     (function(d, s) {
+         var j, e = d.getElementsByTagName(s)[0];
 
-      (function(d, s) {
-       var j, e = d.getElementsByTagName(s)[0];
+         if (typeof LivereTower === 'function') { return; }
 
-       if (typeof LivereTower === 'function') { return; }
+         j = d.createElement(s);
+         j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+         j.async = true;
 
-       j = d.createElement(s);
-       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-       j.async = true;
-
-       e.parentNode.insertBefore(j, e);
-      })(document, 'script');
-      function collapse_comment() {
-          // document.getElementById("disqus_thread").innerHTML = '';
-          $("#disqus_thread").slideUp(400, function() {
-              $("#disqus_thread").empty();
-              $("#leave_comment_link").css("display", "");
-              $("#collapse_comment_link").css("display", "none");
-              $("#disqus_thread").css("display", "");
-          });
-      };
+         e.parentNode.insertBefore(j, e);
+     })(document, 'script');
+     function collapse_comment() {
+            // document.getElementById("disqus_thread").innerHTML = '';
+            $("#disqus_thread").slideUp(400, function() {
+                $("#disqus_thread").empty();
+                $("#leave_comment_link").css("display", "");
+                $("#collapse_comment_link").css("display", "none");
+                $("#disqus_thread").css("display", "");
+            });
   </script>
-  <div><noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
+  <noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
   </div>
+  <!-- City版安装代码已完成 -->
   <!-- END comment -->
   {% endif %}
 </article>
