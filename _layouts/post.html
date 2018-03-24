@@ -24,30 +24,27 @@ layout: default
   <section>
   <center><wb:share-button appkey="5Oow35" addition="simple" type="icon" ralateUid="1780013221" default_text="我分享了@诗酒趁年华 的一篇博文"></wb:share-button></center>
   </section>
-  <script type="text/javascript">
-    var duoshuoQuery = {short_name:"theodoer"};
-    var leave_comment = (function() {
-      var ds = document.createElement('script');
-      ds.type = 'text/javascript';ds.async = true;
-      ds.src = 'http://static.duoshuo.com/embed.js';
-      ds.charset = 'UTF-8';
-      (document.getElementsByTagName('head')[0] 
-      || document.getElementsByTagName('body')[0]).appendChild(ds);
-      $("#leave_comment_link").css("display", "none");
-      $("#collapse_comment_link").css("display", "");
-    });
-    
-    var collapse_comment = (function() {
-      // document.getElementById("disqus_thread").innerHTML = '';
-      $(".ds-thread").slideUp(400, function() {
-          $(".ds-thread").empty();
-          $("#leave_comment_link").css("display", "");
-          $("#collapse_comment_link").css("display", "none");
-          $(".ds-thread").css("display", "");
-          });
-    });
-  </script>
- <!-- JiaThis Button BEGIN -->
+  
+  <!-- 来必力City版安装代码 -->
+  <div id="lv-container" data-id="city" data-uid="MTAyMC8zNTE1Ni8xMTY5MQ==">
+    <script type="text/javascript">
+     (function(d, s) {
+         var j, e = d.getElementsByTagName(s)[0];
+
+         if (typeof LivereTower === 'function') { return; }
+
+         j = d.createElement(s);
+         j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+         j.async = true;
+
+         e.parentNode.insertBefore(j, e);
+     })(document, 'script');
+    </script>
+  <noscript> 为正常使用来必力评论功能请激活JavaScript</noscript>
+  </div>
+  <!-- City版安装代码已完成 -->
+  
+  <!-- JiaThis Button BEGIN -->
   <div id="ckepop" style="padding-left: 48.7%;">
     <span class="jiathis_txt"><a class="jiathis_button_weixin"></a></span>
     <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1" charset="utf-8"></script>
