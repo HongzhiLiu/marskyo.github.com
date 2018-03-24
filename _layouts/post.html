@@ -53,7 +53,31 @@ layout: default
     {% endif %}
     </span>
   </div>
+ <!-- BEGIN comment -->
   <section class="comment">
-  <div class="ds-thread" data-thread-key={{page.uuid}} data-title={{page.title}} ></div>
+  <div id="lv-container" data-id="city" data-uid="MTAyMC8zNTE1Ni8xMTY5MQ=="></div>
+  <script type="text/javascript">
+      var disqus_shortname = '{{ site.disqus }}';
+      var disqus_identifier = '{{ page.guid }}';
+      function leave_comment() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          $("#leave_comment_link").css("display", "none");
+          $("#collapse_comment_link").css("display", "");
+      };
+      function collapse_comment() {
+          // document.getElementById("disqus_thread").innerHTML = '';
+          $("#disqus_thread").slideUp(400, function() {
+              $("#disqus_thread").empty();
+              $("#leave_comment_link").css("display", "");
+              $("#collapse_comment_link").css("display", "none");
+              $("#disqus_thread").css("display", "");
+          });
+      };
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
   </section>
+  <!-- END comment -->
+    {% endif %}
 </article>
