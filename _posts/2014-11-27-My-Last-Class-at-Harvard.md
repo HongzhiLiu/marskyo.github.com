@@ -1,11 +1,11 @@
---- 
+---
 title: 站在终极目标的角度思考——我在哈佛的最后一堂课
 layout: post
 comments: true
 tags: 
     - Read
 ---
-![](/pic/2014/11-27/1.jpg)
+![](http://p5f9oscjk.bkt.clouddn.com/FqQx6B0y1XmPUXxUfDa_KxL1W5QE)
 
 忘记了当初因为什么原因买的这本书，花了两三天时间看完，开始以为是人生励志，心灵鸡汤式的，实际上这本书的侧重点在人生的职场规划。
 

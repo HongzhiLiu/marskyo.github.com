@@ -5,7 +5,7 @@ tags:
   - Movie
 ---
 
-![](/pic/2014/9-23/1/1.jpg)
+![](http://p5f9oscjk.bkt.clouddn.com/Fi7rNxkZwWkRgSt3khNXRDUewL3s)
 
 自作孽不可活，一步错步步错。Chester因为诈骗客户的钱而遭追杀，而后在酒店失手杀了私家侦探，因为妒忌Rydal吸引自己的老婆Colette而对其下手，并因此引发与老婆的争执造成Colette掉下台阶摔死，在机场又设计陷害Rydal被捕，“你不该陷害我是杀害她的凶手”，Rydal给Chester的电话里已经提醒了Chester自己犯的错误，最终Chester命丧土耳其。
 

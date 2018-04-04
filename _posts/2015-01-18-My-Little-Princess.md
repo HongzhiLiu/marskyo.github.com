@@ -1,4 +1,4 @@
---- 
+---
 title: 小公主的满月照
 layout: post
 date: 2015-01-18 13:22
@@ -11,6 +11,6 @@ tags:
 
 还没来得及全部修完，暂时先放上几张，希望以后满意老爸的摄影技术。
 
-![](/img/2015/1-18/1.jpg)  
-![](/img/2015/1-18/2.jpg)  
-![](/img/2015/1-18/3.jpg)  
+![](http://p5f9oscjk.bkt.clouddn.com/FurpNDDny_6EjdBO9FK3p7U561hF)
+![](http://p5f9oscjk.bkt.clouddn.com/Fp5ZlHW1imHVfmtSLCCNtkRK8uNc)  
+![](http://p5f9oscjk.bkt.clouddn.com/Fq8eHqDwB-Zl_Hifqo_-lQQ5Bpe9)

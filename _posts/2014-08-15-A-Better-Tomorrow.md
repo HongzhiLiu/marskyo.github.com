@@ -1,4 +1,4 @@
---- 
+---
 title: 英雄本色
 layout: post
 tags: 
@@ -14,19 +14,19 @@ tags:
 在20多年后的今天，英雄本色依旧让我热血沸腾，就算拿今天的香港电影来讲，除去剧情上与之相差甚远，就算是画面上，依旧还是手枪和冲锋枪的对射，能超过英雄本色的也没有几部。
 
 
-![狄龙]({{ site.url }}/pic/2014/8-15/4 英雄本色.jpg)
+![](http://p5f9oscjk.bkt.clouddn.com/Fvjvpl5aKAo27RYWQEdktKBdzb7o)
 
 像电影里狄龙所讲，”我不做大哥已经很久了“，如今的柔情大哥已经在国产电视剧中演绿叶了。
 
-![张国荣]({{ site.url }}/pic/2014/8-15/2 英雄本色.jpg)
+![](http://p5f9oscjk.bkt.clouddn.com/FtcLbT9WT6QO0yLLLWT4jEaQssBE)
 
-![张国荣]({{ site.url }}/pic/2014/8-15/6 英雄本色.jpg)
+![](http://p5f9oscjk.bkt.clouddn.com/FjO0DO0ow3Aahu37n7oJpvecwR0Z)
 
 张国荣的执着与纯真
 
-![发哥]({{ site.url }}/pic/2014/8-15/1 英雄本色.jpg)
+![](http://p5f9oscjk.bkt.clouddn.com/FldpHCdxv9e_EClP7c23QjM5BCH5) 
 
-![吴宇森]({{ site.url }}/pic/2014/8-15/5 英雄本色.jpg)
+![](http://p5f9oscjk.bkt.clouddn.com/FmoJoFKnmiNiUM1nMGH_msgR9RiO)
 
 发哥和吴宇森曾经的黄金搭档如今已经渐行渐远……
 

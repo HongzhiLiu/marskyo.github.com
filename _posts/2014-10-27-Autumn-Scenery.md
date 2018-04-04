@@ -1,11 +1,11 @@
---- 
+---
 title: 秋色
 layout: post
 comments: true
 tags: 
     - Outdoor
 ---
-![](/img/2014/10-27/1.JPG)
+![](http://p5f9oscjk.bkt.clouddn.com/Fp5T2rWfklpYYQ2U2od6TIoFF93S)
 
 **<center>秋色</center>**
 

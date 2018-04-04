@@ -1,11 +1,11 @@
---- 
+---
 title: 我们曾错过的自己——一个人的朝圣
 layout: post
 comments: true
 tags: 
     - Read
 ---
-![](/pic/2014/11-14/1.jpg)
+![](http://p5f9oscjk.bkt.clouddn.com/Fio-hsUlFj036LOZr28N0SkRevEu)
 
 >遇到一个陌生人，对他表现出不是自己的那一面，或者很久之前已经失去了的那一面，甚至是成为一个自己“可能会成为的人”——如果那些年前作的选择不一样的话。
 

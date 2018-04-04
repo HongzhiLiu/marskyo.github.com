@@ -1,4 +1,4 @@
---- 
+---
 title: 追风筝的人
 layout: post
 tags: 
@@ -6,7 +6,7 @@ tags:
     - Read
 ---
 
-![](/pic/2014/8-21/2/1.png)
+![](http://p5f9oscjk.bkt.clouddn.com/Fr1zK8WiGsyggBKl8wnYgoxR4vKn)
 
 >*为你，千千万万次。*
 
