@@ -1,5 +1,5 @@
 # A sample Gemfile
-source "http://hzliu.top"
+source "http://ruby.taobao.org"
 
 # gem "rails"
 
