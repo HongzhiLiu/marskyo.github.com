@@ -20,12 +20,12 @@ navigations:
   - title: Tags
     class: fa fa-tags
     href: /tags.html
+  - title: Gallery
+    class: fa fa-film
+    href: https://hzliu.myportfolio.com/Photo
   - title: About
     class: fa fa-user
     href: /about.html
-  - title: Gallery
-    class: fa fa-film
-    href: https://hzl.myportfolio.com/Photo
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
