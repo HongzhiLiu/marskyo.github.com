@@ -4,7 +4,7 @@ layout: post
 tags:
   - Movie
 ---
-![](http://p5f9oscjk.bkt.clouddn.com/FpVScj3Z2kpeNuO-AGUWlvTrGLWZ)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/Bt3TkoLEV9XBm73TFUW7pQFrtxkBcC8mP7cWVBpz.jpg)
 
 >对于爱情的根源，可以有两种相反的解说：一是因为残缺而寻求弥补，另一是因为丰盈而渴望奉献。在内在丰盈的衬照下，方见出人生的缺憾。——周国平
 

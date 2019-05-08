@@ -5,7 +5,7 @@ comments: true
 tags: 
     - Read
 ---
-![](http://p5f9oscjk.bkt.clouddn.com/Fs_pAf_-b2JU21yQZVtXp2Iz9mu1)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/5KMzhufmfP1RdNW15UdVwalva2nLscTJzPRAc9np.jpg)
 
 这是一本我迫切想读的书，看过之后获益良多，对以前读书的很多疑问有茅塞顿开之感。
 
@@ -267,7 +267,7 @@ tags:
 
 整本书我用了三天时间就看完了，但是只能说是一种浏览，又回去重新阅读了一遍，真正部分理解和整理成文最终用了近一个月时间。这本书不仅可以看成是关于阅读的实用手册，反过来看也是关于写作的实用手册，阅读与写作一直就是一体两面的事。另外作者在书中关于阅读速度与阅读数量、阅读相关主题的顺序、阅读不同类型书籍、好书与坏书的区别、如何解读现代新闻事件等方面都有深刻的说明和见解。虽然作者书中要求我们评判一本书时应该不带感情色彩，但是我还是不得不带有个人观点的说这是一本写的很公正、客观、诚实、用心、实用性很强的作品，不时回头参看依旧能获得新的理解。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FjbdQzXrmm67LmgAHbuYtyVrw5Bo)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/c2HJCnJcw70TjVirOjhvQro1920ScNkDjTE9m4WG.jpg)
 <center>补上一张总结的思维导图</center>
 
 *<center>------------------------------------------------------------</center>*

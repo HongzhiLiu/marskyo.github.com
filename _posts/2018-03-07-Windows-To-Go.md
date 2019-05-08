@@ -25,7 +25,7 @@ tags:
 
    <center>下面三种移动设备都可以安装（普通U盘、自组mSATA、移动硬盘）</center>
 
-   ![](http://p5f9oscjk.bkt.clouddn.com/FlF2cJR70rMZlNm3dofXP2Efy2Om)
+   ![](http://lc-ec5pgDDk.cn-n1.lcfile.com/vhitrgJld5jEI88wRh0wWWPH8O4EwB2Rzg2U1qm2.jpg)
 
 3. 第一次安装时需要外接键盘，不能全键盘操作的还需要外接鼠标。
 
@@ -33,15 +33,15 @@ tags:
 
    <center>启动转换助理。</center>
 
-   ![](http://p5f9oscjk.bkt.clouddn.com/Fkng7LmZzmKBLTDlpYueyq00egha)
+   ![](http://lc-ec5pgDDk.cn-n1.lcfile.com/CxhcLTpfmf6QCA7bvDBxoyhLY9iwuMI0lkVIe9Js.jpg)
 
    <center>选择菜单栏操作，点击下载Windows支持软件。</center>
 
-   ![](http://p5f9oscjk.bkt.clouddn.com/FpeIQ8jOxCvWDTHyKoh4HEbIEvCv)
+   ![](http://lc-ec5pgDDk.cn-n1.lcfile.com/VgsyO7T1DyjGLIkyXNL6Wn5Kg4Ac6h3IwT0ar84a.jpg)
 
    <center>选择保存位置，然后会下载好一个文件夹，里面就是这台Mac的Windows驱动。</center>
 
-   ![](http://p5f9oscjk.bkt.clouddn.com/Fii_N--Zq4-ckMYCbfwE5h5uNYn6)
+   ![](http://lc-ec5pgDDk.cn-n1.lcfile.com/gHQOlTdMK8qTEyRKJmp7CXN3nvKyOel1tnBs8Ul5.jpg)
 
 5. Windows镜像文件[MSDN](https://msdn.itellyou.cn/)，微软建议的是Windows企业版，如果不用微软原生Windows To Go工具安装，版本无所谓，但是建议选择企业版或专业版，另外建议安装Windows 8.1及以上的系统。
    ​
@@ -60,7 +60,7 @@ tags:
 
 第二种和第三种方法我都有尝试，可以正常安装，区别是WinToUSB除了免费版还有收费版，免费版貌似只能传统安装，不能选择VHD、VHDX模式。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FoQcXClh6fcpGMYujkEuf7p53xqo)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/ULUyzOVSx6jTclzV1EtByWDnxKs0sRGS05aNWcf1.jpg)
 
 软件操作简单，按照步骤安装即可。
 
@@ -68,11 +68,11 @@ tags:
 
 启动软件。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FhWSt3nYeZV6QHejfLfYXT0clc83)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/CJEmA7JecYqE7H8KaDVG0LXTSvIDiafypj004Ogo.jpg)
 
 加载Windows镜像文件，选择镜像文件的install.win。
 
-![](http://p5f9oscjk.bkt.clouddn.com/Fh-GzcI75sCh97HebUUrySnDPo3x)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/NmOb5G0erVs2VjCIqanUQi3cphGnUxsc5u1AnM73.jpg)
 
 选择需要安装的移动设备，我用的是自己组装的mSATA，右边设置选项选择模式，传统模式也可，如果安装Windows 8.1以上尽量选择VHDX模式，VHD和VHDX模式是一种虚拟磁盘。
 
@@ -90,39 +90,39 @@ VHDX：由微软推出Windows 8将支持VHDX文件，新的VHDX格式能支持64
 
 我安装Windows 10，所以选择VHDX，我的MacBook是2016款，基本2015款以后的都选择UEFI+GPT模式。
 
-![](http://p5f9oscjk.bkt.clouddn.com/Fj25S23Rugi0kn3oSJAOOX8rwS9l)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/zzVb4meyHssU3UMxDJGk2VJxpElA7z6PlqakcQvx.jpg)
 
 分卷如果有选项可以根据需求选择或默认自动。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FqROJzlWx_kLeumbDREAdjJf43yz)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/m6kdfBynFbUcutejqjidfgwwQ30SQ42dDiBMhVRz.jpg)
 
 VHD选项下可以自行设置虚拟硬盘大小或默认。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FgXhmMI9S6QhwWI-Sf_otzR48zjt)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/xnR5be1Jyz1KGnWyPsrwFvllSPyeHSOEh8khrCv1.jpg)
 
 系统模式下根据需求选择，一般不用动。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FvHe51YVsBpC-WTqLUlNQeAUIfRz)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/rSsqbMyq2tvE7QF4KEOpQObzCQ1jBVuYtCaviNsw.jpg)
 
 分区选项下EFI分区可以自行设置大小或默认，全部选项设置完成后点击创建按钮。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FitZm_nveR379HuBX3vXS-ZOE3jr)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/xnSXjl3L7x7M9UYrwWX6BIHSoxT3zSqsoRHbMxPm.jpg)
 
 提示确定。
 
-![](http://p5f9oscjk.bkt.clouddn.com/Fj9zG7_MVjdShPK901jEFP2a6HyF)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/HuAdhk0DxCAEAveD9Q6ECIDrmw9FipjtRNaFFcAL.jpg)
 
 然后开始制作过程，不同的移动设备安装时间不同。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FqO9RwOQ9zMwwxJCJqKvDCA9WtM4)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/dkLKVxBeKOFEkzb4NKkocHylXoUycTpk7Flm2W7N.jpg)
 
-![](http://p5f9oscjk.bkt.clouddn.com/FsXggIRJm6VSl6nrTDquaZN-ftVx)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/XNj0HIuJ8zBDTKDBbR2LrxvhiL9InzcQ3pTFpcBe.jpg)
 
-![](http://p5f9oscjk.bkt.clouddn.com/FuTto0Wl48ulJhPaw5Ni6Xv2EZ2t)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/EoPBdgc3rmWDl3ml4sDqt4ykF9GeReyQv9IMAzOv.jpg)
 
 普通U盘和机械硬盘时间较长，固态U盘、mSATA基本几分钟就可以安装完成。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FnmOFMIfW1nhFDbt-UESkSNlHH18)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/zqD8IUDnkkpCAAqAPbiNtQhp1xag0GAfYwQhkKMQ.jpg)
 
 设备不同以上选项略有不同，如果一次失败也没有关系，个别设置稍微更改后可再行进行制作尝试。
 
@@ -132,25 +132,25 @@ VHD选项下可以自行设置虚拟硬盘大小或默认。
 
 安装完成后可以将之前下载好的WindowsSupport文件夹拷贝到移动设备，然后将移动设备插入MacBook，这时需接上外接键盘，开机同时按住Option键进入系统选择界面。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FrBwdxOuBcbtR9xUcn096-clslOk)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/97ByBPhN9X6MwvmEPUnjm5hVLVTfMdjBA9XnOuPr.jpg)
 
 如在其他Windows系统电脑上运行Windows To Go可下载万能驱动软件，进入BIOS更改启动设置，改选移动设备优先启动进入WTG系统。
 
 常规配置Windows，这时MacBook键盘无驱动无反应，外接键盘一路Enter，设置用户名、密码，再一路Enter，配置完成进入Windows系统。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FgFDMWwLKBsA2kuZ7inSqvgmDrTq)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/vj19RoqCxIjNlp9wSQ8wzPJ5Qukj5lzywEHNuF9H.jpg)
 
-![](http://p5f9oscjk.bkt.clouddn.com/FiVx63E096C1rNKL2gWDQp4uXgqo)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/Ap2NVUFH0BnHxp2wotnyjN1n2QokW8Eu2i5DXPqU.jpg)
 
 打开系统，找到刚才拷贝的WindowsSupport文件夹，安装驱动。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FsnEbRf5aNdyfZsaIpNlyB2Rqnhd)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/52y5WN6tr9xVI7WVCEpkTSpQe57hBSbPKAvHHUSD.jpg)
 
-![](http://p5f9oscjk.bkt.clouddn.com/FpKg3R3H7pya9nMkBhUM07sow9ZO)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/FSDHMLfK6UUHieOF3AcVj9iE5xt4MQmjPOlfB81X.jpg)
 
 安装重启完成之后就不需要外接键盘了，开始享受Windows To Go。
 
-![](http://p5f9oscjk.bkt.clouddn.com/Fj0Lt5EbP6ORHcCgx5y9YGFc32xO)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/krNB8sCkcfCirI1ASLGrjWIxvyiB5mFmuBQBJD51.jpg)
 
 
 

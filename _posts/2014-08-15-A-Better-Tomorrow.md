@@ -13,20 +13,19 @@ tags:
 
 在20多年后的今天，英雄本色依旧让我热血沸腾，就算拿今天的香港电影来讲，除去剧情上与之相差甚远，就算是画面上，依旧还是手枪和冲锋枪的对射，能超过英雄本色的也没有几部。
 
-
-![](http://p5f9oscjk.bkt.clouddn.com/Fvjvpl5aKAo27RYWQEdktKBdzb7o)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/S4cbGl3h2PLTNAv3zjCJhPFw4Oi1XgS6lhjUptkP.jpg)
 
 像电影里狄龙所讲，”我不做大哥已经很久了“，如今的柔情大哥已经在国产电视剧中演绿叶了。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FtcLbT9WT6QO0yLLLWT4jEaQssBE)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/usgm8TEio9gXHBHURPXF49bTRCHuRc281m77lG4u.jpg)
 
-![](http://p5f9oscjk.bkt.clouddn.com/FjO0DO0ow3Aahu37n7oJpvecwR0Z)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/y06Ml419Dk7uRvA7zRKjWcMbHEtWzdGwFu8pi8Sq.jpg)
 
 张国荣的执着与纯真
 
-![](http://p5f9oscjk.bkt.clouddn.com/FldpHCdxv9e_EClP7c23QjM5BCH5) 
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/dWzeVeMGoA3nghgXEbpftQOaOm2mqo8bGcVIwE4E.jpg)
 
-![](http://p5f9oscjk.bkt.clouddn.com/FmoJoFKnmiNiUM1nMGH_msgR9RiO)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/alUjAb4Ux2GD7ynW24G5o8dWocddRjbXW2CYae3j.jpg)
 
 发哥和吴宇森曾经的黄金搭档如今已经渐行渐远……
 

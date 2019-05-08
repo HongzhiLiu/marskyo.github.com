@@ -11,7 +11,7 @@ tags:
 在假期的最后一天约了几个同学一起绕着怀柔——延庆自驾游了一下。本来是要去喇叭沟门看白桦林的，结果人员变动较大，最后又带上我大肚子的老婆，不能爬山，就改为大家都适宜的自驾休闲腐败游了。这次路线是我第一次走，目的是沿着延庆的百里画廊看风景，之前准备的也不是很充分，哪去哪回哪吃也没考虑那么多，先走起再说，一路就沿着山路走，哪里好看就停下来玩会儿，拍拍照。
 
 我们的路线是从怀柔出发，途径汤河口然后宝山，从宝山直行去往千家店方向就进入了延庆的百里画廊，在中途几个能停车的点稍作停留，拍拍照片，看看美景，午饭是在柳沟井庄吃的豆腐宴，第二次吃了，依旧便宜实惠，一个人26元，午饭后稍作休息，从昌赤路到上黑路然后进入九渡河返回怀柔。
-![](http://p5f9oscjk.bkt.clouddn.com/FrtAvhl1xbqHiyJZssjBaVqkBPOH)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/9kr4ijI10X03u8Jz4bA0xWSGgXPhLvTYJ15K1987.jpg)
 
 由于我们出发较晚，加上我事前没有准备规划，所以路上停留玩耍、拍照的时间基本都在中午，阳光很强，第一次用5D2和35定焦也不习惯，照片不是我想要的风格啊，午饭则推到了下午两点才吃上，大家都是饥肠辘辘啊。
 
@@ -23,18 +23,18 @@ tags:
 研究了一下，发现照片不是原来习惯的样式可能主要原因是相机的色彩空间的设置问题，之前相机的设置是Adobe RGB模式，色域更宽，但是一般的显示器都不能支持这么宽的色域，所以显示的照片会偏暗；大多数的设备所支持的是sRGB模式，如果不是大型的印刷、广告等设计用途，sRGB模式更合适一般使用。
 
 *<center>沿路风景</center>*  
-![](http://p5f9oscjk.bkt.clouddn.com/FslqxzEx8dTRbxt51ZMpX_XOZK3c)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/87ujx0gu8fvmhwMj8HA1sY1WqULtJ6WeMyS5HVio.jpg)
 
-![](http://p5f9oscjk.bkt.clouddn.com/Fvq9_1Ta0ASsDn736wFePSMy4Q1T)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/4zFS6BwP9Sn3xKnPhOiBPmRhI12w92JsR3y5tQXV.jpg)
 
-![](http://p5f9oscjk.bkt.clouddn.com/Fqw7R_w7-6DASri8pfh5csqboIH7)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/K6iQG9sIOGdvLqqOeBvVHnQtnYRPNk4wpwjLgO0h.jpg)
 
 *<center>两个小胖子</center>*  
-![](http://p5f9oscjk.bkt.clouddn.com/Fst066WgbYJaEdU9nkNJXD8wgg5C)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/WPLEI3dpYOX8F2O8LjWQsi4pcDcVAcotqUemwsdg.jpg)
 
 *<center>汤童鞋夫妇</center>*  
-![](http://p5f9oscjk.bkt.clouddn.com/FtKX5lBfVbh6mu3zIsexiLgcE4eC)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/0KxCSXRKio79amLn1dMS3HODicgYqmyu5sl6Ls4r.jpg)
 
 *<center>刘童鞋夫妇</center>*  
-![](http://p5f9oscjk.bkt.clouddn.com/FrWlt3ae7SsNeexPCz9tVMKGDY-4)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/T3BRasl2LWcXaOQLzJqF15fB64CvW9KAgSAP1p79.jpg)
 

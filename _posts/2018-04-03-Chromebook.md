@@ -5,7 +5,7 @@ tags:
     - Essay
     - Shoot
 ---
-![](http://p5f9oscjk.bkt.clouddn.com/FgYBMNBGJBLglEgiwqcoGiE9DMD6)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/TkGqy963xbwNfEnzYA8KaxE9WsKI16TQSu1WbcQn.jpg)
 
 前段时间心血来潮买了个二手Chromebook试玩，本想着轻办公用，试用一段时间还是放弃了。
 
@@ -15,10 +15,12 @@ tags:
 
 入手MacBook后这本实在是闲置了，700元买的，没想到二手还能卖750元，玩了一个多月还小赚了50。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FpqYM33N-FuOZaJlrNz7ytOFZL_K)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/Xr06pbknkzyp5Qqyt3XEkSu6DjniiQ26jvxNet0z.jpg)
 
-![](http://p5f9oscjk.bkt.clouddn.com/FtDISvVlsepKsGiN7x8bC5oG6kFh)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/ontDJyxNY2Mui3d2r4XHG4Vh5zWxADmYQPj9yDaj.jpg)
 
-![](http://p5f9oscjk.bkt.clouddn.com/FqAcxslqYMGRAzaNlyy3CieDnft8)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/RcknlHh3B9oCKUJHx8NA0lirNzEb3E6aSVlL8jGB.jpg)
 
-![](http://p5f9oscjk.bkt.clouddn.com/Fs3JfucAuFynf0_bzxqV5XeuxE19)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/t6rK6SNpxvvU5Yo77hz9TsSPwyCxGClbtt5ecvCJ.jpg)
+
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/WMOPvwBYR2u2bIjUGlNAVhjTBdOrquL4BpKyUbWd.jpg)

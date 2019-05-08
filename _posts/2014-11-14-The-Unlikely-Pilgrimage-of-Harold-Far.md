@@ -5,7 +5,7 @@ comments: true
 tags: 
     - Read
 ---
-![](http://p5f9oscjk.bkt.clouddn.com/Fio-hsUlFj036LOZr28N0SkRevEu)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/eCCYhCAadRX2FLb5op2GNBFKYgwQPghJe7pH1r7l.jpg)
 
 >遇到一个陌生人，对他表现出不是自己的那一面，或者很久之前已经失去了的那一面，甚至是成为一个自己“可能会成为的人”——如果那些年前作的选择不一样的话。
 

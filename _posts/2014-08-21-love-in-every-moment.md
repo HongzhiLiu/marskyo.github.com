@@ -18,13 +18,13 @@ tags:
 
 其实我更喜欢第一部最后他们不要约定再见的结尾，不打电话，不写信又何必六个月之后再见。相濡以沫不如相忘于江湖，人生中很多美妙的事情不一定要长久，长久反而不会再美妙，而美妙之后不可再得才是最让人怀念与珍惜的。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FuocKavgOtTX9F0h2-ehciWnEpIv)
-![](http://p5f9oscjk.bkt.clouddn.com/FhBivg0eccBdc7Na6z2uHaJkYO2M)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/tE2BzWgKXMjgtlgbd1Mnq414HYkKQPlsLqztFnEa.jpg)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/3cpTJ9nwM47Gg3WaFSMmC0WpgtgvrbU4dEliI4ym.jpg)
 最后也不得不感叹一下，岁月这把杀猪刀，虽说2013年的朱莉·德尔佩胖了一些，皱纹多了些，依旧风韵犹存，但是也仅是犹存了，看看95年20出头的女主何其让人迷恋，不得不哀叹一声时间在每一个人身上留下的痕迹。
 
 好在，爱情留了下来。
 
-![](http://p5f9oscjk.bkt.clouddn.com/FkbR65xRSDk079eFc6_yLKGauEz1)
-![](http://p5f9oscjk.bkt.clouddn.com/Fo10DQzkjH_vBCYNkr6192rm-0gs)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/r2cFxQSJFIsvLUwXpUgfqJPYAdex9qdYE9j2Bt1H.jpg)
+![](http://lc-ec5pgDDk.cn-n1.lcfile.com/0HM9zlLNryTijXQQYYFcUJkFJWA86qfdWhSjPorv.jpg)
 
 >*我告诉你我无条件爱你，我告诉你你很美，我告诉你你的屁股80岁都风采依旧，我努力想逗你笑，我忍受你一大堆臭脾气。如果你以为我是条狗 ，总是回来找你，那你错了， 但如果你想要真爱，这就是爱，这就是生活，不完美但很真实。*
