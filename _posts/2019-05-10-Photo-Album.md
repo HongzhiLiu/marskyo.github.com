@@ -1,8 +1,7 @@
 ---
-title: Photo Album正式上线
+title:  Photo Album正式上线
 layout: post
 date: 2018-01-16 13:22
-guid: urn:uuid:
 tags: 
     - Shoot
 ---
@@ -12,7 +11,9 @@ tags:
 
 虽然中文支持的不好， 但是作为一个相册用Sp现在足够了，简单整理一下照片，相册算终于上线了，也链接了博客上方的画廊按钮，希望自己以后不要太懒，能把照片都及时更新整理……
 
-首页效果图：
+相册单独链接：https://spark.adobe.com/page/zd7JdBXHZE6NX/
+
+首页效果图如下：
 
 ![](http://lc-ec5pgDDk.cn-n1.lcfile.com/22yGqT9xydppW9p0DxIyfGCuGqevvxbkRxg9yJTS.jpg)
 
