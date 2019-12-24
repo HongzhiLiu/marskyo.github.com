@@ -1,17 +1,8 @@
-markdown: kramdown
-kramdown:
-    input: GFM
-    syntax_highlighter: rouge
-    
-permalink: /:year/:month/:day/:title.html
 name: "诗酒趁年华"
+permalink: /:year/:month/:day/:title.html
 
 author: "hzliu"
 atom-baseurl: "http://marskyo.github.io"
-disqus: "theodoer"
-
-safe: false
-cdn_url: 'http://marskyo.github.io'
 
 navigations:
   - title: Archive
@@ -20,12 +11,12 @@ navigations:
   - title: Tags
     class: fa fa-tags
     href: /tags.html
-  - title: Gallery
-    class: fa fa-film
-    href: https://hzliu.myportfolio.com/photo
   - title: About
     class: fa fa-user
     href: /about.html
+  - title: Gallery
+    class: fa fa-film
+    href: https://hzliu.myportfolio.com/photo
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
